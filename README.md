@@ -1,2 +1,2 @@
 # weather-website
-Hello this my first web dev project of frontend using HTNL,CSS and JAVA SCRIPT
+Hello this  is my first web dev project of frontend using HTML,CSS and JAVA SCRIPT and interagting open weather API.
